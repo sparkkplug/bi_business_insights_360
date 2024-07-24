@@ -1,4 +1,4 @@
-## Business Insights 360 Report
+## Business Insights 360 Report 💼
 
 ### Detailed Demonstration Link
 - [Live Interactive Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiM2QyYzQ5YjItZmRkNi00ZmUzLThiNDYtZjg3Zjk2Mjc4NzNkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
@@ -19,6 +19,13 @@ List the tools and technologies used in this project are,
 - Microsoft Power BI
 - DAX Studio
 - Microsoft Excel
+
+### Preview
+<figure>
+  <img src="https://github.com/sparkkplug/bi_business_insights_360/blob/main/2.%20FINANCE%20VIEW.png" alt="Finance View">
+  <figcaption>Welcome to Finance View! Explore net sales, gross margin %, & net profit %. Filter & chart trends dynamically for insightful financial analysis.📈💼.</figcaption>
+</figure>
+
 
 
 
